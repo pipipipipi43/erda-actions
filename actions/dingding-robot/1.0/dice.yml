@@ -1,0 +1,7 @@
+### job 配置项
+jobs:
+  dingding-robot:
+    image: registry.erda.cloud/erda-actions/dingding-robot-action:20210726-b92b13f
+    resources:
+      cpu: 0.5
+      mem: 1024

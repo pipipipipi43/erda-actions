@@ -1,0 +1,22 @@
+name: dingding-robot
+version: '1.0'
+type: action
+displayName: 钉钉机器人
+category: data_management
+desc: 给指定的钉钉群发送消息
+public: true
+supportedVersions:
+  - ">= 4.0"
+
+params:
+  - name: Msg
+    desc: 可以使用 ${{ env.xxxx }} 获取当前流水线环境 比如 ${{ env.ProjectId }} 可以获取到当前流水线的项目Id
+    required: true
+  - name: Token
+    desc: 机器人的Token
+    type: string_array
+    required: true
+  - name: Keyword
+    desc: 机器人的关键词
+    required: true
+

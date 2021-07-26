@@ -45,6 +45,7 @@ require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.426
 	github.com/andrianbdn/iospng v0.0.0-20180730113000-dccef1992541
 	github.com/bitly/go-simplejson v0.5.1-0.20181114203107-9db4a59bd4d8
+	github.com/blinkbean/dingtalk v0.0.0-20201231030509-45a553a84503
 	github.com/caarlos0/env v3.3.1-0.20180521112546-3e0f30cbf50b+incompatible
 	github.com/cespare/trie v0.0.0-20150610204604-3fe1a95cbba9 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
@@ -71,6 +72,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
 	google.golang.org/grpc/examples v0.0.0-20210518222651-23a83dd097ec // indirect
+	gopkg.in/Knetic/govaluate.v3 v3.0.0
 	gopkg.in/src-d/enry.v1 v1.6.4
 	gopkg.in/stretchr/testify.v1 v1.2.2
 	gopkg.in/toqueteos/substring.v1 v1.0.2 // indirect
