@@ -435,6 +435,7 @@ github.com/erda-project/erda-infra v0.0.0-20210628062952-f8dbba71489b h1:b7EeBa1
 github.com/erda-project/erda-infra v0.0.0-20210628062952-f8dbba71489b/go.mod h1:JzDud6McvHHuTs6IO7CzxQMl4c5z50/uxiNaFeeeUkc=
 github.com/erda-project/erda-infra v0.0.0-20210706133120-0a742437972c/go.mod h1:TUQYSZ60w9dk7m0q3U3AVg7U74APj/sdEVvRWR3wYv8=
 github.com/erda-project/erda-infra v0.0.0-20210707114154-26659d826a1c/go.mod h1:TUQYSZ60w9dk7m0q3U3AVg7U74APj/sdEVvRWR3wYv8=
+github.com/erda-project/erda-infra v0.0.0-20210709120204-7091e4656382 h1:zZe7KTM8NZev/P3CRNM1Hk9HJleWhU0DsZtLtk3SuN0=
 github.com/erda-project/erda-infra v0.0.0-20210709120204-7091e4656382/go.mod h1:TUQYSZ60w9dk7m0q3U3AVg7U74APj/sdEVvRWR3wYv8=
 github.com/erda-project/erda-proto-go v0.0.0-20210413092715-491fb6350e91/go.mod h1:SKarso8Zg5BJu6sxw3jpf+bIi0MXjaOR4Jc6AzGD6hU=
 github.com/erda-project/erda-proto-go v0.0.0-20210422085548-44271074c652 h1:mBnzPAgo9eQ6e9xm47Vz/+E/EnsakpWsAQhBgsBlJ6c=
@@ -442,6 +443,7 @@ github.com/erda-project/erda-proto-go v0.0.0-20210422085548-44271074c652/go.mod 
 github.com/erda-project/erda-proto-go v0.0.0-20210628065747-b46fc4f14aac h1:aGD6IOb5XdbrAf6AswL/QovNcCTRSxPiRQrb8pQSkVo=
 github.com/erda-project/erda-proto-go v0.0.0-20210628065747-b46fc4f14aac/go.mod h1:cHj6tDcMJbFqOXJDY2q9Oj6TnEuaoY6+7/2mLvnWktg=
 github.com/erda-project/erda-proto-go v0.0.0-20210708055220-ccccc409ea19/go.mod h1:3p+zdizZPn3d0qq5y1GjNRP31Jd3mIvqN4809cldvN4=
+github.com/erda-project/erda-proto-go v0.0.0-20210715071257-863ac2744be1 h1:PDrikVbCiUIuy+N3Ad+Xp0A1U0xy4uhllNyx0xnC0fA=
 github.com/erda-project/erda-proto-go v0.0.0-20210715071257-863ac2744be1/go.mod h1:rSETXX3nKxxIhgrVn7fKDM3mla1nNlWcPz4AkepixaU=
 github.com/erda-project/influxql v1.1.0-ex/go.mod h1:gHp9y86a/pxhjJ+zMjNXiQAA197Xk9wLxaz+fGG+kWk=
 github.com/erda-project/remotedialer v0.2.6-0.20210618084817-52c879aadbcb h1:fkVZXQpz6JjPKkzr45/JNvQtQwOTk3WDVyLsItxwVKI=
@@ -928,6 +930,7 @@ github.com/json-iterator/go v1.1.8/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/u
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/json-iterator/go v1.1.10 h1:Kz6Cvnvv2wGdaG/V8yMvfkmNiXq9Ya2KUv4rouJJr68=
 github.com/json-iterator/go v1.1.10/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
+github.com/json-iterator/go v1.1.11 h1:uVUAXhF2To8cbw/3xN3pxj6kk7TYKs98NIrTqPlMWAQ=
 github.com/json-iterator/go v1.1.11/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/jsonnet-bundler/jsonnet-bundler v0.1.0/go.mod h1:YKsSFc9VFhhLITkJS3X2PrRqWG9u2Jq99udTdDjQLfM=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
