@@ -446,6 +446,7 @@ github.com/erda-project/erda-infra v0.0.0-20210707114154-26659d826a1c/go.mod h1:
 github.com/erda-project/erda-infra v0.0.0-20210709120204-7091e4656382/go.mod h1:TUQYSZ60w9dk7m0q3U3AVg7U74APj/sdEVvRWR3wYv8=
 github.com/erda-project/erda-infra v0.0.0-20210725152943-8d1044e4fc39/go.mod h1:L+fFQghY2po2P3H9pzwEOufDLAhL+mRRhPGdZ7vFnAw=
 github.com/erda-project/erda-infra v0.0.0-20210729035209-8d1b436456f0/go.mod h1:L+fFQghY2po2P3H9pzwEOufDLAhL+mRRhPGdZ7vFnAw=
+github.com/erda-project/erda-infra v0.0.0-20210729162038-a2e798d921de h1:jI4eyZ0bMf0UmEeZY8yJBnetcSICpH8M6+FEEKadTjc=
 github.com/erda-project/erda-infra v0.0.0-20210729162038-a2e798d921de/go.mod h1:L+fFQghY2po2P3H9pzwEOufDLAhL+mRRhPGdZ7vFnAw=
 github.com/erda-project/erda-proto-go v0.0.0-20210413092715-491fb6350e91/go.mod h1:SKarso8Zg5BJu6sxw3jpf+bIi0MXjaOR4Jc6AzGD6hU=
 github.com/erda-project/erda-proto-go v0.0.0-20210422085548-44271074c652 h1:mBnzPAgo9eQ6e9xm47Vz/+E/EnsakpWsAQhBgsBlJ6c=
@@ -457,6 +458,7 @@ github.com/erda-project/erda-proto-go v0.0.0-20210715071257-863ac2744be1/go.mod 
 github.com/erda-project/erda-proto-go v0.0.0-20210727031539-cace26f0e407/go.mod h1:rSETXX3nKxxIhgrVn7fKDM3mla1nNlWcPz4AkepixaU=
 github.com/erda-project/erda-proto-go v0.0.0-20210728101536-42e74f28ce7c/go.mod h1:rSETXX3nKxxIhgrVn7fKDM3mla1nNlWcPz4AkepixaU=
 github.com/erda-project/erda-proto-go v0.0.0-20210804030051-79c0be70a3ed/go.mod h1:rSETXX3nKxxIhgrVn7fKDM3mla1nNlWcPz4AkepixaU=
+github.com/erda-project/erda-proto-go v0.0.0-20210805063629-d4e8ac75e06d h1:6qHof6d0/OWdgKGGpdhvSWZGwtZNK6GXLLcXfn7W5UA=
 github.com/erda-project/erda-proto-go v0.0.0-20210805063629-d4e8ac75e06d/go.mod h1:rSETXX3nKxxIhgrVn7fKDM3mla1nNlWcPz4AkepixaU=
 github.com/erda-project/influxql v1.1.0-ex/go.mod h1:gHp9y86a/pxhjJ+zMjNXiQAA197Xk9wLxaz+fGG+kWk=
 github.com/erda-project/remotedialer v0.2.6-0.20210618084817-52c879aadbcb h1:fkVZXQpz6JjPKkzr45/JNvQtQwOTk3WDVyLsItxwVKI=
@@ -947,6 +949,7 @@ github.com/json-iterator/go v1.1.8/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/u
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/json-iterator/go v1.1.10 h1:Kz6Cvnvv2wGdaG/V8yMvfkmNiXq9Ya2KUv4rouJJr68=
 github.com/json-iterator/go v1.1.10/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
+github.com/json-iterator/go v1.1.11 h1:uVUAXhF2To8cbw/3xN3pxj6kk7TYKs98NIrTqPlMWAQ=
 github.com/json-iterator/go v1.1.11/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/jsonnet-bundler/jsonnet-bundler v0.1.0/go.mod h1:YKsSFc9VFhhLITkJS3X2PrRqWG9u2Jq99udTdDjQLfM=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
@@ -1893,6 +1896,7 @@ golang.org/x/net v0.0.0-20210421230115-4e50805a0758/go.mod h1:72T/g9IO56b78aLF+1
 golang.org/x/net v0.0.0-20210428140749-89ef3d95e781/go.mod h1:OJAsFXCWl8Ukc7SiCT/9KSuxbyM7479/AVlXFRxuMCk=
 golang.org/x/net v0.0.0-20210614182718-04defd469f4e h1:XpT3nA5TvE525Ne3hInMh6+GETgn27Zfm9dxsThnX2Q=
 golang.org/x/net v0.0.0-20210614182718-04defd469f4e/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
+golang.org/x/net v0.0.0-20210726213435-c6fcb2dbf985 h1:4CSI6oo7cOjJKajidEljs9h+uP0rRZBPPPhcCbj5mw8=
 golang.org/x/net v0.0.0-20210726213435-c6fcb2dbf985/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
 golang.org/x/oauth2 v0.0.0-20180603041954-1e0a3fa8ba9a/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
 golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be/go.mod h1:N/0e6XlmueqKjAGxoOufVs8QHGRruUQn6yWY3a++T0U=
@@ -2217,6 +2221,7 @@ google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c/go.mod h1:UODoCrxH
 google.golang.org/genproto v0.0.0-20210714021259-044028024a4f h1:UUQZ0BNnLgSI3v/uqq0hjdxwctexOPwnvKA5AA/Aze4=
 google.golang.org/genproto v0.0.0-20210714021259-044028024a4f/go.mod h1:AxrInvYm1dci+enl5hChSFPOmmUF1+uAa/UsgNRWd7k=
 google.golang.org/genproto v0.0.0-20210726200206-e7812ac95cc0/go.mod h1:ob2IJxKrgPT52GcgX759i1sleT07tiKowYBGbczaW48=
+google.golang.org/genproto v0.0.0-20210729151513-df9385d47c1b h1:4xoALQmXxqVdDdLimpPyPeDdsJzo+nFTJw9euAMpqgM=
 google.golang.org/genproto v0.0.0-20210729151513-df9385d47c1b/go.mod h1:ob2IJxKrgPT52GcgX759i1sleT07tiKowYBGbczaW48=
 google.golang.org/grpc v0.0.0-20160317175043-d3ddb4469d5a/go.mod h1:yo6s7OP7yaDglbqo1J04qKzAhqBH6lvTonzMVmEdcZw=
 google.golang.org/grpc v0.0.0-20180607172857-7a6a684ca69e/go.mod h1:yo6s7OP7yaDglbqo1J04qKzAhqBH6lvTonzMVmEdcZw=
