@@ -36,13 +36,6 @@ func Execute() error {
 
 	envconf.MustLoad(&cfg)
 
-	// docker login
-	if cfg.LocalRegistryUserName != "" {
-		if err := docker.Login(cfg.LocalRegistry, cfg.LocalRegistryUserName, cfg.LocalRegistryPassword); err != nil {
-			return err
-		}
-	}
-
 	buildInfo, err := getBuildInfo(cfg)
 	if err != nil {
 		return err
@@ -172,6 +165,12 @@ func packAndPushAppImage(cfg conf.Conf) error {
 	}
 	fmt.Fprintf(os.Stdout, "successfully build app image: %s\n", repo)
 
+	// docker login
+	if cfg.LocalRegistryUserName != "" {
+		if err := docker.Login(cfg.LocalRegistry, cfg.LocalRegistryUserName, cfg.LocalRegistryPassword); err != nil {
+			return err
+		}
+	}
 	// docker push 业务镜像至集群 registry
 	if err := docker.PushByCmd(repo, ""); err != nil {
 		return err
