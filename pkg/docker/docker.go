@@ -30,7 +30,7 @@ func Login(registry, username, password string) error {
 		fmt.Println("登陆失败wrnm")
 		return errors.Errorf("docker login failed, registry: %s, username: %s, err: %v", registry, username, string(output))
 	}
-	fmt.Println("登陆成功wrnm")
+	fmt.Println("登陆成功wrnmsssss")
 	return nil
 }
 
